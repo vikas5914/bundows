@@ -29,5 +29,8 @@
   "license": "ISC",
   "dependencies": {
     "execa": "^8.0.1"
+  },
+  "np": {
+    "tests ": false
   }
 }
