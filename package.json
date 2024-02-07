@@ -1,16 +1,27 @@
 {
   "name": "bundows",
   "version": "1.2.0",
-  "description": "",
+  "description": "just bundows",
   "main": "index.js",
   "type": "module",
+  "repository": "vikas5914/bundows",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "bundows": "index.js"
   },
-  "keywords": [],
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9",
+    "git": ">=2.11.0",
+    "yarn": ">=1.7.0"
+  },
+  "keywords": [
+    "bundows",
+    "bun",
+    "windows"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
