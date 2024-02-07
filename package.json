@@ -1,6 +1,6 @@
 {
   "name": "bundows",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "just bundows",
   "main": "index.js",
   "type": "module",
