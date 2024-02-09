@@ -4,7 +4,7 @@
   "description": "just bundows",
   "main": "index.js",
   "type": "module",
-  "repository": "vikas5914/bundows",
+  "repository": "vikas5914/npm-bundows",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
